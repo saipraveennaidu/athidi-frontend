@@ -1,0 +1,27 @@
+.hero {
+  min-height: 80vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 2rem;
+}
+
+.overlay {
+  text-align: center;
+}
+
+.overlay h1 {
+  font-size: 3.5rem;
+}
+
+.overlay p {
+  margin: 1rem 0;
+  font-size: 1.1rem;
+}
+
+.cta {
+  padding: 12px 28px;
+  cursor: pointer;
+}
